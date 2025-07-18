@@ -166,9 +166,3 @@ CREATE TABLE film_text(
     title VARCHAR(255),
     description TEXT
 );
-
-
-
-
-
-
